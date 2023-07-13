@@ -1,0 +1,6 @@
+[package]
+name = "grid"
+description = "core nodes for grid"
+version = "0.0.1"
+
+[dependencies]
